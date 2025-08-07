@@ -81,3 +81,6 @@ A collaborative graduation project by a team of five students specializing in Ne
 - [HelloWorld IoT Tutorial](https://helloworld.co.in/iot/remote/)  
 - [Arduino IDE Guide](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)  
 - [YouTube ESP32 Setup](https://www.youtube.com/watch?v=fIHp2z3G7Mc)
+
+## 📄 Project Report  
+You can view or download the full graduation report [here](./Final_project_Report.pdf.pdf)
